@@ -23,7 +23,7 @@ Responsive Design for different screen sizes.
 
 Clone the repository:
 
-git clone https://github.com/noludlamini/city-skyline.git
+git clone https://noludlamini.github.io/City-Skyline/
 
 Open index.html in your browser.
 
